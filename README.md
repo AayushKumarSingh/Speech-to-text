@@ -1,6 +1,9 @@
 ## Description
 Project to convert speech data from users to text transcript. Uses OpenAI-whisper model.
 
+
+![Img__](https://github.com/user-attachments/assets/af262275-2044-45d3-b74c-a70160ae8a1d)
+
 ## How to run
 - Create and activate virtual enviroment
   - `python3 -m venv venv`
